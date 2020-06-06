@@ -1,0 +1,39 @@
+body{
+  /* background-color: pink; */
+  background-image: url("cats.jpg");
+  background-size: cover;
+  background-position: center;
+}
+/* .display-4{
+
+    color: white;
+    text-align: center;
+    font-weight: 600;
+}
+
+.lead{
+  color: white;
+  text-align: center;
+} */
+
+.jumbotron{
+background: pink;
+margin: 20% 0 auto;
+padding-bottom: 0;
+
+}
+
+hr{
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.container{
+  text-align: center;
+  color: white;
+}
+
+#wrapper{
+  color: black;
+}
